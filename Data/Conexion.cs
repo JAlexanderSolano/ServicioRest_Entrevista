@@ -101,12 +101,7 @@ namespace Data
                 {
                     String cad = "";
 
-                    // Conexion Por Archivo plano 
-                    //StreamReader cadenilla = new StreamReader("C:\\ConexionTaxiWeb.txt");
-                    //cad = cadenilla.ReadToEnd();
-                    //cadenilla.Close();
-                    //cadenilla.Dispose();
-                    //cadenilla = null;
+                    
 
                     // Conexión desde el sistema
                     var CaracterInstancia = @"\";
